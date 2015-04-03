@@ -1,0 +1,1 @@
+Working through the code exercises in the Well-Grounded Rubyist by David A. Black
