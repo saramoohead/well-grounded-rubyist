@@ -1,4 +1,5 @@
 class Ticket
+  VENUES = ["Convention Center", "Fairgrounds", "Town Hall"]
   attr_reader :venue, :date, :price
 
   def initialize(venue, date)
